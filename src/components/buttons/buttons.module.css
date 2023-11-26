@@ -1,0 +1,31 @@
+.buttons__main--button {
+    min-width: 250px;
+    height: 64px;
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 21px;
+    cursor: pointer;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    border: none;
+    box-shadow: 0px 6px 4px -1px rgba(0, 0, 0, 0.5)
+}
+
+.buttons__main--button:hover {
+    background-color: #7e7f80;
+}
+
+.button-blue {
+    background: #007abe;
+}
+
+.button-red {
+    background:  #f8393a;
+}
+
+.button-green {
+    background:  #00a957;
+}
