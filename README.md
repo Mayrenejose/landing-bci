@@ -1,6 +1,6 @@
 # Landing page.
 
-Visitala ---> [Landing bci](https://github.com/facebook/create-react-app).
+Visitala ---> [Landing bci](https://mayrenejose.github.io/landing-bci/).
 
 ## Herramientas utilizadas:
 
