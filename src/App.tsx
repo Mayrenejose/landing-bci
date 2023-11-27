@@ -1,5 +1,6 @@
 import { InformationBox } from "./components/InformationBox"
-import { BoxButtons } from "./components/boxButtons";
+import { BoxButtons } from "./components/boxButtons"
+import { BoxCentral } from "./components/boxCentral";
 
 function App() {
   return (
@@ -8,7 +9,9 @@ function App() {
         <div>
           <BoxButtons />
         </div>
-        <div>segunda parte</div>
+        <div>
+          <BoxCentral />
+        </div>
         <div className="app__filter--InformationBox">
           <InformationBox />
         </div>

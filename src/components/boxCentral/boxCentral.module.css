@@ -1,0 +1,9 @@
+.boxCentral__main {
+    display: flex;
+    align-items: center;
+    width: 1514px;
+}
+
+.boxCentral__main--imgPhoneMono {
+    margin: 131px 0 0 80px;
+}

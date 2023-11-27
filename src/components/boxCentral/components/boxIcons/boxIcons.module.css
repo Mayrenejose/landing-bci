@@ -1,0 +1,22 @@
+.boxIcons__main {
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 0 80px;
+}
+
+.red__phrase {
+    color: #f8393a;
+    font-weight: 800;
+}
+
+.boxIcons__main--icon {
+    display: grid;
+    grid-column-gap: 80px;
+    grid-row-gap: 30px;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+}
+
+.boxIcons__main--h2 {
+    padding: 0 0 24px 12px;
+}

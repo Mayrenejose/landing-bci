@@ -1,7 +1,7 @@
-import { Buttons } from '../buttons'
+import { Buttons } from './components/buttons'
 import layerTwo from '../../imgs/layer2.png'
-import layerThree from '../../imgs/Layer3.png'
-import { ImagesMonos } from '../imagesMonos'
+import layerThree from '../../imgs/layer3.png'
+import { ImagesMonos } from './components/imagesMonos'
 import title from '../../imgs/title.png'
 import style from './boxBtn.module.css'
 
@@ -14,8 +14,8 @@ export const BoxButtons = () => {
         <div className={style.boxBtn__main}>
             <div className={style['boxBtn__main--monos']}>
                 <ImagesMonos image={layerTwo} widthMono={180}/>
-                <div className={style['boxBtn__main--lightningTitle']}>
-                    <ImagesMonos image={title} widthMono={230}/>
+                <div>
+                    <ImagesMonos image={title} widthMono={400}/>
                 </div>
                 <ImagesMonos image={layerThree} widthMono={230}/>
             </div>

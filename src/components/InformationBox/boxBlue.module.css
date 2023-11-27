@@ -4,20 +4,20 @@
 }
 
 .boxInformation__boxBlue {
-    background-color: #32afd8;
+    background-color: #32afd7;
     border-radius: 15px;
-    padding: 6px 32px 13px;
+    padding: 0 50px 31px;
     width: 100%;
 }
 
 .boxInformation__boxBlue--title {
     color: white;
-    font-weight: 600;
+    font-weight: 400;
+    font-size: 32px;
     padding: 0 12px 12px;
     text-align: center;
 }
 
 .boxInformation__boxTips {
     display: flex;
-    justify-content: space-around;
 }

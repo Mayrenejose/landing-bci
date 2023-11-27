@@ -1,4 +1,4 @@
-import { IButtons } from "../../types"
+import { IButtons } from "../../../../types"
 import style from './buttons.module.css'
 
 export const Buttons = ({title, colors}: IButtons) => {

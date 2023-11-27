@@ -3,7 +3,7 @@ import card from '../../imgs/card.png'
 import camera from '../../imgs/camera.png'
 import speak from '../../imgs/speak.png'
 import eye from '../../imgs/eye.png'
-import { Tips } from '../tips/Tips'
+import { Tips } from './components/tips/Tips'
 
 export const InformationBox = () => {
     const tipsOne = 'Realiza directamente tus transacciones o mantén tu tarjeta a la vista todo el tiempo.'

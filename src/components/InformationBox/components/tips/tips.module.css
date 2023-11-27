@@ -1,0 +1,28 @@
+.tips__main {
+    display: flex;
+}
+
+.tips__main--text p, h3 {
+    color: white;
+    margin:  0 15px;
+}
+
+.tips__main--text h3{
+    font-size: 27.3px;
+    font-weight: 600;
+}
+
+.tips__main--text h2 {
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.tips__main--text p {
+    
+    font-weight: 300;
+    max-width: 380px;
+}
+
+/* .tips__main--icon {
+    padding: 0 12px;
+} */

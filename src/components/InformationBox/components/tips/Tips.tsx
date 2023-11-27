@@ -1,5 +1,5 @@
 import style from './tips.module.css'
-import { ITips } from '../../types'
+import { ITips } from '../../../../types'
 
 export const Tips = ({ 
     iconTips,

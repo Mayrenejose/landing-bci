@@ -13,3 +13,8 @@ export interface IImgMonos {
     image: string;
     widthMono: number;
 }
+
+export interface IListIcons {
+    image: string;
+    subtitle: string;
+}

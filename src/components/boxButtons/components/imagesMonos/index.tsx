@@ -1,4 +1,4 @@
-import { IImgMonos } from '../../types'
+import { IImgMonos } from '../../../../types'
 
 export const ImagesMonos = ({image, widthMono}: IImgMonos) => {
     return (
